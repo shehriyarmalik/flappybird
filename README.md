@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Screenshots:
+
+<img src="https://github.com/shehriyarmalik/flappybird/blob/master/screenshots/start.png?" height="400" width="200">
+<img src="https://github.com/shehriyarmalik/FlutterChatApp/blob/master/screenshots/demo.gif?raw=true" height="400" width="200">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
