@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Screenshots:
 
-<img src="https://github.com/shehriyarmalik/flappybird/blob/master/screenshots/start.png?" height="400" width="200">
-<img src="https://github.com/shehriyarmalik/FlutterChatApp/blob/master/screenshots/demo.gif?raw=true" height="400" width="200">
+<img src="https://github.com/shehriyarmalik/flappybird/blob/main/screenshots/start.PNG" height="400" width="200">
+<img src="https://github.com/shehriyarmalik/flappybird/blob/main/screenshots/demo.gif" height="400" width="200">
 
 
 
